@@ -30,8 +30,8 @@ end
 -- Supported Games Table
 -- Format: [PlaceId] = "filename.lua"
 local SupportedGames = {
-    -- Example entries (replace with your games):
-    -- [8737899170] = "pet_simulator.lua",
+    [107778070777162] = "steal_an_egg.lua", -- Steal an Egg
+}
     -- [155615604]  = "prison_life.lua",
 }
 
