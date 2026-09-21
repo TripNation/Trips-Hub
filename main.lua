@@ -32,8 +32,6 @@ end
 local SupportedGames = {
     [107778070777162] = "steal_an_egg.lua", -- Steal an Egg
 }
-    -- [155615604]  = "prison_life.lua",
-}
 
 -- Supported Universes (useful for games with multiple sub-places/lobbies)
 -- Format: [GameId] = "filename.lua"
